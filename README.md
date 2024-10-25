@@ -1,4 +1,4 @@
-<h1>Solving Puzzles with Bitwise Operators</h1>
+<h1>Breaking Down Asteroid Populations Based Using Period Data</h1>
 
 <h2>Description</h2>
 <p> Asteroids, also called planetesimals, are remnants from the formation of our solar system. They come in a range of diameters, class types (based on composition), and orbital class– which refers to where in the solar system the Asteroid is found (e.g. Near Earth asteroids, Outer Main Belt asteroids, etc). Most of the asteroids in the solar system are found in the Main Asteroid Belt–a dense ring between Jupiter's orbit and Mars’s orbit. 
